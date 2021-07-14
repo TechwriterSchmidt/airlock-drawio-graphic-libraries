@@ -7,7 +7,7 @@ Eine Anleitung zur Erstellung von URLs zu neu erstellen Grafikbibliotheken [find
 ## Struktur der Dateien in diesem Repository
 **Oberste Ebene:** 
 * Sprechend benannter Ordner
-* URLs_for_custom_libraries.txt (dieses File enthält alle RAW, Encoded und die Kombinierte URL für den Grafikbibliothekenimport nach DrawIO)
+* URLs_for_custom_libraries.txt (dieses File enthält die URLs für den Grafikbibliothekenimport nach DrawIO)
 
 **Innerhalb der Ordner oberster Ebene:**
 * Unterordner "Source_drawings", der die einzelnen DrawIO-Grafiken enthält, aus denen die Bibliothek besteht.
