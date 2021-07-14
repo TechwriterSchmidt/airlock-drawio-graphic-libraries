@@ -22,4 +22,4 @@ https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.co
 
 ## Weitere Informationen und Links
 * Eine Anleitung zur Erstellung von URLs zu neu erstellen Grafikbibliotheken [findet Ihr hier](https://github.com/jgraph/drawio-libs).
-* Eine Anleitung zum Arbeiten (erweitern, ändern ...) von Grafikbibliotheken [findet Ihr hier](https://desk.draw.io/support/solutions/articles/16000067790)
+* Eine Anleitung zum Arbeiten (erweitern, ändern ...) von Grafikbibliotheken [findet Ihr hier](https://desk.draw.io/support/solutions/articles/16000067790).
